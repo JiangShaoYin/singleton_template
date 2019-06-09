@@ -1,0 +1,5 @@
+﻿  main.cpp
+  snigleton.cpp
+  正在生成代码...
+main.obj : error LNK2019: 无法解析的外部符号 "public: static class A * __cdecl Singleton<class A>::getInstance(void)" (?getInstance@?$Singleton@VA@@@@SAPAVA@@XZ)，该符号在函数 _main 中被引用
+C:\Users\Administrator\Desktop\vs_test_raw\Debug\vs_test_raw.exe : fatal error LNK1120: 1 个无法解析的外部命令
